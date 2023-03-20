@@ -31,7 +31,7 @@ public class App {
     // End code for logging exercise
     
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments!
      */
     public static void main(String[] args) {
         SQLiteConnectionManager wordleDatabaseConnection = new SQLiteConnectionManager("words.db");
